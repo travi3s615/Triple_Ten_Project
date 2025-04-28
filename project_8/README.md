@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project of Supervised Learning
 
 ## Project Description
@@ -62,3 +63,6 @@ The project will be evaluated on the following:
 - Is your code **structured**, **clean**, and well-commented?
 
 ---
+=======
+# Project 9
+>>>>>>> f472bd4 (Initial commit)
