@@ -99,7 +99,7 @@ Note: Data for 2016 may be incomplete.
 
 ## Evaluation Criteria
 
-Project reviewers will assess:
+Project reviewers was assess based on:
 
 - Problem identification and data issues.
 - Data preparation and handling.
