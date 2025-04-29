@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project of Supervised Learning
 
 ## Project Description
